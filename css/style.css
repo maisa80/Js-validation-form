@@ -1,0 +1,11 @@
+.container{
+    margin: 20px auto;
+    padding: 50px;
+    background-color:rgb(224, 220, 220);
+    border-radius: 5px;
+}
+.required{
+    color: red;
+    font-size: 1.3em;
+    font-weight: 700;
+}
